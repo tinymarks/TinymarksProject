@@ -1,6 +1,5 @@
 # TinymarksProject
 
-# Tinymarks
 
 ## 理念 | Vision
 ### 中文
@@ -23,23 +22,6 @@ Tinymarks is a "museum of lives," built on the Nostr protocol, etching every ord
 - 集成 Nostr 协议，连接公共中继（如 wss://relay.damus.io）。
 - GitHub 开源，招募翻译和插件开发者。
 
-### 阶段 2（1-3 个月 | 1-3 Months）
-- 实现 Nostr 事件（kind: 1000 故事，kind: 7 致敬，kind: 1 微评）。
-- 添加 NIP-04 加密审核，NIP-29 群聊共鸣。
-- 集成 Crowdin，支持多语言翻译。
-
-### 阶段 3（3-6 个月 | 3-6 Months）
-- 支持 IPFS 备份，增强数据永存。
-- 开发插件：纪念日提醒、AI 创作模板。
-- 举办“记忆之光”活动，推广感人故事。
-
-## 部署 | Deployment
-1. 克隆：`git clone https://github.com/tinymarks/tinymarks.git`
-2. 安装 Vercel CLI：`npm install -g vercel`
-3. 部署：`vercel`
-4. 配置 Nostr 中继：默认 wss://relay.damus.io, wss://nos.lol。
-5. 访问演示版本，体验故事上传/共鸣。
-
 ## 联系 | Contact
-- 邮箱：tinymarks.project@proton.me
+- 邮箱：tinymarks.project@outlook.com
 - X 平台：@Tinymarks (待创建)
